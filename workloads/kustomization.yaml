@@ -1,5 +1,7 @@
 namespace: playground
+
 resources:
   - podinfo-dep.yaml
   - podinfo-hpa.yaml
   - podinfo-svc.yaml
+  - mysecret.yaml
